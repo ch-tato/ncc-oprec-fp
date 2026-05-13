@@ -2,9 +2,9 @@
 
 * **Project Type:** NCC Open Recuitment Final Project 2026 — Full Stack SIEM  
 * **Team Members:**
-  * Muhammad Quthbi Danish Abqori (@ch-tato)
-  * Ananda Aryasatya Zhafran Aqila ()[]
-  * Raditya Zhafran Pranuja
+  * Muhammad Quthbi Danish Abqori ([@ch-tato](https://github.com/ch-tato))
+  * Ananda Aryasatya Zhafran Aqila ([@azaregon](https://github.com/azaregon))
+  * Raditya Zhafran Pranuja ([@rdtzaa](https://github.com/rdtzaa))
 * **Timeline:** 11-23 May 2026
 * **Document Version:** 1.0
 ---
