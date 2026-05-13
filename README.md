@@ -1,11 +1,9 @@
 # Custom SIEM Application — Software Architecture & Implementation Document
 
 **Project Type:** NCC Open Recuitment Final Project 2026 — Full Stack SIEM  
-**Team Size:** 3 Developers  
-**Timeline:** 11 Days  
-**Document Version:** 1.0  
-**Classification:** Internal Engineering Reference
-
+**Team Members:** Muhammad Quthbi Danish Abqori (@ch-tato), Ananda Aryasatya Zhafran Aqila ()[], Raditya Zhafran Pranuja
+**Timeline:** 11-23 May 2026
+**Document Version:** 1.0
 ---
 
 ## Table of Contents
