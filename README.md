@@ -1,6 +1,6 @@
 # Custom SIEM Application — Software Architecture & Implementation Document
 
-**Project Type:** University Capstone — Full Stack SIEM  
+**Project Type:** NCC Open Recuitment Final Project 2026 — Full Stack SIEM  
 **Team Size:** 3 Developers  
 **Timeline:** 11 Days  
 **Document Version:** 1.0  
